@@ -1,0 +1,62 @@
+Good Afternoon..
+
+I have around 3.3  years of experience in python and Pyspark
+
+and also worked on databases like Mysql.`
+
+I have knowledge on git, docker, bit bucket, jira.
+
+experience on ETL using Azure Data Factory,and pyspark
+
+Have knowledge on big data concepts and snowflake
+
+curently working on digimetrix technologies pvt ltd as a data engineer
+
+Recently i worked on the project called Kohl's data analytics
+
+(((((data related to product id,product sales,customers id ,customers name ,sale id ,sales date. )))
+
+1.we usally get the data from data sources in the Csv or json file format.(adls)
+
+2.we processs them using pyspark where we do column mapping,error handling and user onboarding 
+and  also we perform some Transformation to get the business requirements
+
+3.After all the transformtion process is done we load them Blob storage or somewhere client ask to.
+
+(((((transformations----filter, count, distinct,flatMap(), union(), groupbyKey() and reducebyKey() ))))
+ 
+ we have used technologies like python,pyspark,msql,adf,adls,azure databricks,git.....
+
+ coming to my Roles and responsibility
+
+●i Analyse and understand the business requirements 
+●and i develope pyspark code to transform the data for various business needs
+●and i develope pipeling in Azure Data Factory to perform the ETL Data flows
+●and Created datasets and linked services as part of Azure Data Factory     
+	
+
+mostly i used to  work along with team members
+
+thats all about my self.
+
+
+
+Project #2
+    Title       : Payerpath
+    Role	: Developer
+    Team Size	: 8
+    Environment: Python, PySpark RestAPI,Flask, Mysql, Agile, Scrum, Bamboo, MongoDB, unittest
+
+Description 
+All scripts Payer path is a revenue cycle management and clearinghouse services in the United States.
+It provides the credibility, experience and results demanded by both payers and providers.
+Its comprehensive suite of internet solutions addresses every step in the reimbursement cycle for healthcare organizations.
+Whether you are a physician practice, clearinghouse or payer, Payer path can help your organization succeed in the business of healthcare 
+through improved reimbursement and claim management processes that lead to cleaner claims and faster payments.
+
+Roles and Responsibilities
+●	Performed Build and deployment activities for web applications 
+●	Participated in the technical analysis, review and design discussions related with the enhancement of application
+●	Involved in finding root cause analysis and fixing issues
+●	Worked as Individual contributor and team member
+●	Implemented test cases using unit test, mock frameworks
